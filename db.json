@@ -1,0 +1,44 @@
+{
+  "peliculas": [
+    {
+      "id": "1",
+      "title": "Avengers",
+      "views": 500
+    },
+    {
+      "id": "2",
+      "title": "Iron-man",
+      "views": 200
+    },
+    {
+      "id": "3",
+      "title": "Capitan America",
+      "views": 250
+    },
+    {
+      "id": "4",
+      "title": "Hulk",
+      "views": 50
+    },
+    {
+      "id": "5",
+      "title": "Black Widow",
+      "views": 50
+    }
+  ],
+  "actores": [
+    {
+      "nombre": "Darin"
+    },
+    {
+      "nombre": "Francella"
+    },
+    {
+      "nombre": "Sbaraglia"
+    },
+    {
+      "id": "c6fe",
+      "nombre": "Robert Downey Jr"
+    }
+  ]
+}
